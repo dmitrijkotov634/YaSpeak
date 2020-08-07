@@ -3,7 +3,7 @@
 
 Python wrapper for Yandex text voiceover
 
-![pypi](https://badge.fury.io/py/YaSpeak.svg)
+![pypi](https://badge.fury.io/py/yaspeak.svg)
 
 </div>
 
